@@ -4,7 +4,9 @@
 
 1.1. Nueva generación de centrales termosolares con colectores solares lineales acoplados a ciclos supercríticos de potencia: https://oa.upm.es/44002/
 
-Thesis Download link: https://oa.upm.es/44002/1/LUIS_COCO_ENRIQUEZ.pdf
+     New generation of solar thermal power plants with linear solar collectors coupled to supercritical carbon dioxide (sCO2) power cycles:
+
+     Thesis Download link: https://oa.upm.es/44002/1/LUIS_COCO_ENRIQUEZ.pdf
 
 1.2. Heat balance software: https://github.com/luiscoco/Heat_Balancing and https://github.com/luiscoco/Bal-LUIS-COCO2
 
