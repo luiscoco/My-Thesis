@@ -1,6 +1,6 @@
 # My Thesis
 
-# 1. My Thesis
+## 1. My Thesis
 
 1.1. Nueva generación de centrales termosolares con colectores solares lineales acoplados a ciclos supercríticos de potencia: https://oa.upm.es/44002/
 
